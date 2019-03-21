@@ -1,0 +1,14 @@
+C:\Users\lazaroca\source\repos\Metodos de extencion\Metodos de extencion\obj\Debug\Metodos de extencion.csprojAssemblyReference.cache
+C:\Users\lazaroca\source\repos\Metodos de extencion\Metodos de extencion\obj\Debug\Metodos de extencion.csproj.CoreCompileInputs.cache
+C:\Users\lazaroca\source\repos\Metodos de extencion\Metodos de extencion\bin\Debug\Metodos de extencion.exe.config
+C:\Users\lazaroca\source\repos\Metodos de extencion\Metodos de extencion\bin\Debug\Metodos de extencion.exe
+C:\Users\lazaroca\source\repos\Metodos de extencion\Metodos de extencion\bin\Debug\Metodos de extencion.pdb
+C:\Users\lazaroca\source\repos\Metodos de extencion\Metodos de extencion\obj\Debug\Metodos de extencion.exe
+C:\Users\lazaroca\source\repos\Metodos de extencion\Metodos de extencion\obj\Debug\Metodos de extencion.pdb
+F:\C#\Metodos de extencion\Metodos de extencion\bin\Debug\Metodos de extencion.exe.config
+F:\C#\Metodos de extencion\Metodos de extencion\bin\Debug\Metodos de extencion.exe
+F:\C#\Metodos de extencion\Metodos de extencion\bin\Debug\Metodos de extencion.pdb
+F:\C#\Metodos de extencion\Metodos de extencion\obj\Debug\Metodos de extencion.csprojAssemblyReference.cache
+F:\C#\Metodos de extencion\Metodos de extencion\obj\Debug\Metodos de extencion.csproj.CoreCompileInputs.cache
+F:\C#\Metodos de extencion\Metodos de extencion\obj\Debug\Metodos de extencion.exe
+F:\C#\Metodos de extencion\Metodos de extencion\obj\Debug\Metodos de extencion.pdb
